@@ -1,0 +1,17 @@
+Intentional Relationships
+I will be having two projects this semester, and the premise of them will be the same: Find a loving mate for you or your roommate. It is hard to find your Proverbs 31 woman amongst the sea of them, so let us help. With out “Special algorithms”, you will find you dearly betrothed in seconds flat!*
+*Probably not
+
+The project will consist of a Website and android application that consists of technologies from the Java book chapters 31-39, Android OS, C, and other various technologies.
+
+The Website Shall:
+-	Allow users to read success stories
+-	Read a terms and conditions
+-	Sign up
+-	Find a proverbs 31 woman
+The App shall:
+-	Allow on the go meeting by the well
+-	Encourage users to find their equally yoked partner on the go
+-	Sustain all matching functionality of the website
+-	
+I have worked on similar projects including website development with a semester end deadline and advanced Java GUI programming and media control with an open ended deadline.

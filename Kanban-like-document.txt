@@ -1,0 +1,36 @@
+Website
+
+TD:
+Welcome
+Server Setup
+Profile
+Matches
+Network Connections
+
+IP:
+Matches
+
+D:
+Database
+JSP
+Tomcat
+Servlet
+Backend Communication
+Servlet link up
+Image display
+Loggin/Sign-up
+
+Overall
+
+TD:
+Networking - 31
+
+IP:
+JSF - 33
+
+D:
+JDBC - 32
+Advanced JavaFX - 34
+Advanced JDBC - 35
+Servlets - 37       
+JSP - 38
